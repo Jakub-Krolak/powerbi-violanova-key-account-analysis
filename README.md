@@ -67,7 +67,7 @@ Przedmiotem zadania było przygotowanie syntetycznego obrazu sprzedaży za rok 2
 
 ## 4. Dane źródłowe
 
-Trzy pliki tworzące model gwiazdy (*star schema*), udostępnione w formatach CSV (podgląd na GitHubie) oraz XLSX (do pobrania):
+Trzy pliki tworzące model gwiazdy (*star schema*), udostępnione w formatach CSV (podgląd na GitHubie):
 
 | Zbiór | Rola | Opis |
 |---|---|---|
@@ -182,7 +182,7 @@ The object of the task was the preparation of a synthetic picture of sales for t
 
 ## 4. Source data
 
-Three files forming a star schema, provided in CSV (previewable on GitHub) and XLSX (for download) formats:
+Three files forming a star schema, provided in CSV (previewable on GitHub):
 
 | Dataset | Role | Description |
 |---|---|---|
