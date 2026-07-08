@@ -56,7 +56,7 @@ Przedmiotem zadania było przygotowanie syntetycznego obrazu sprzedaży za rok 2
 
 ### Wnioski dla działalności
 
-1. **Ryzyko koncentracji.** Blisko dwie trzecie obrotu pozostaje uzależnione od trzech klientów. Utrata HIPER CENTRUMa oznaczałaby ubytek około jednej trzeciej sprzedaży, co stanowi przesłankę na rzecz dywersyfikacji portfela.
+1. **Ryzyko koncentracji.** Blisko dwie trzecie obrotu pozostaje uzależnione od trzech klientów. Utrata HIPER CENTRUM oznaczałaby ubytek około jednej trzeciej sprzedaży, co stanowi przesłankę na rzecz dywersyfikacji portfela.
 2. **Rozróżnienie obrotu i zysku.** Kanał SIECI odpowiada za 57,4% obrotu, jego marża (24,1%) jest jednak niższa niż w kanale TRADYCJA (28,9%). Kanał tradycyjny, przy niższym obrocie, dostarcza nieproporcjonalnie wysoki udział zysku (46,8% marży z 42,6% obrotu).
 3. **Struktura asortymentu wymagająca przeglądu.** Największy wolumen sprzedaży dotyczy towaru o najniższej rentowności (leki, marża 20%). Kategorie wysokomarżowe- w szczególności Kosmetyki (50%)- pozostają niemal nieobecne. Obszar ten wyznacza przestrzeń decyzyjną dotyczącą rozwoju struktury sprzedaży.
 4. **HANDYPACK jako wyjątek.** Jedyna kategoria łącząca wysoki obrót z wysoką marżą; pozostałe pozycje czołowe charakteryzuje marża rzędu 20%.
@@ -162,10 +162,10 @@ The object of the task was the preparation of a synthetic picture of sales for t
 |---|---:|---|
 | Total sales | **PLN 2.71M** | turnover in 12 of 17 months- irregular sales |
 | Total margin | **PLN 707K** | at an average margin of **26.1%** |
-| Customer concentration | **3 customers = 64% of turnover** | HIPER CENTRUM alone approx. 32%- high dependency risk |
+| Customer concentration | **3 customers = 64% of turnover** | HIPER CENTRUM alone approx. 32% - high dependency risk |
 | Assortment concentration | **25 of 158 categories = 80% of turnover** | Pareto distribution, long tail of 133 categories |
 | Seasonality | highest month **×5** against the lowest | November (441K) against February (89K) |
-| Leading pillar | **Medicines/Medical = 52% of turnover** | at once the lowest margin (20%)- turnover is driven by the least profitable goods |
+| Leading pillar | **Medicines/Medical = 52% of turnover** | at once the lowest margin (20%) - turnover is driven by the least profitable goods |
 | Profitability paradox | **Cosmetics: 0.3% turnover, 50% margin** | the most profitable category, unexploited |
 
 ### Conclusions for the business
