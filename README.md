@@ -22,11 +22,11 @@ Dwustronicowy raport menedżerski (Power BI) opracowany na surowych danych trans
 
 ## 1. Podgląd raportu
 
-### Strona 1- Przegląd sprzedaży i rentowności (Klienci)
-![Strona 1- Przegląd sprzedaży i rentowności](assets/01_przeglad_sprzedazy_rentownosci.png)
+### Strona 1 - Przegląd sprzedaży i rentowności (Klienci)
+![Strona 1 - Przegląd sprzedaży i rentowności](assets/01_przeglad_sprzedazy_rentownosci.png)
 
-### Strona 2- Kategorie produktowe (Asortyment)
-![Strona 2- Kategorie produktowe](assets/02_kategorie_produktowe.png)
+### Strona 2 - Kategorie produktowe (Asortyment)
+![Strona 2 - Kategorie produktowe](assets/02_kategorie_produktowe.png)
 
 ---
 
@@ -136,11 +136,11 @@ A two-page management report (Power BI) developed on raw transactional data. The
 
 ## 1. Report preview
 
-### Page 1- Sales and profitability overview (Customers)
-![Page 1- Sales and profitability overview](assets/01_przeglad_sprzedazy_rentownosci.png)
+### Page 1 - Sales and profitability overview (Customers)
+![Page 1 - Sales and profitability overview](assets/01_przeglad_sprzedazy_rentownosci.png)
 
-### Page 2- Product categories (Assortment)
-![Page 2- Product categories](assets/02_kategorie_produktowe.png)
+### Page 2 - Product categories (Assortment)
+![Page 2 - Product categories](assets/02_kategorie_produktowe.png)
 
 ---
 
