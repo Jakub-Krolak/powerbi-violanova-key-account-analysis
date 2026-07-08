@@ -97,11 +97,11 @@ Zwięźle:
 
 ## 6. Założenia projektowe
 
-- **Teza w tytule każdego wykresu.** Zamiast nagłówka neutralnego („Sprzedaż wg kanału") zastosowano sformułowanie interpretacyjne („Kanał Tradycja stabilny, Sieci skokowy- to one napędzają wahania"). Odbiorca otrzymuje wniosek, nie wyłącznie dane.
+- **Teza w tytule każdego wykresu.** Zamiast nagłówka neutralnego („Sprzedaż wg kanału") zastosowano sformułowanie interpretacyjne („Kanał Tradycja stabilny, Sieci skokowy - to one napędzają wahania"). Odbiorca otrzymuje wniosek, nie wyłącznie dane.
 - **Dwie strony zamiast dziesięciu.** Ograniczenie zamierzone, zgodne z wytyczną odbiorcy, wymuszające priorytetyzację treści.
-- **Wykresy Pareto** dla koncentracji klientów i kategorii- najczytelniejsza forma prezentacji ryzyka wynikającego z zasady „80/20".
-- **Wykres bąbelkowy obrót × marża**- pojedyncza wizualizacja ukazująca rozmieszczenie obrotu, marży oraz ich współwystępowania (HANDYPACK).
-- **Zamierzone pominięcie analizy rok-do-roku**, udokumentowane wprost w stopce raportu- rzetelność metodologiczna została przedłożona nad efektowny, lecz mylący wskaźnik.
+- **Wykresy Pareto** dla koncentracji klientów i kategorii - najczytelniejsza forma prezentacji ryzyka wynikającego z zasady „80/20".
+- **Wykres bąbelkowy obrót × marża** - pojedyncza wizualizacja ukazująca rozmieszczenie obrotu, marży oraz ich współwystępowania (HANDYPACK).
+- **Zamierzone pominięcie analizy rok-do-roku**, udokumentowane wprost w stopce raportu - rzetelność metodologiczna została przedłożona nad efektowny, lecz mylący wskaźnik.
 
 ---
 
@@ -212,11 +212,11 @@ In brief:
 
 ## 6. Design assumptions
 
-- **A thesis in the title of each chart.** In place of a neutral header ("Sales by channel"), an interpretative formulation was applied ("The Traditional channel stable, Modern trade volatile- these drive the fluctuations"). The recipient obtains a conclusion, not values alone.
+- **A thesis in the title of each chart.** In place of a neutral header ("Sales by channel"), an interpretative formulation was applied ("The Traditional channel stable, Modern trade volatile - these drive the fluctuations"). The recipient obtains a conclusion, not values alone.
 - **Two pages in place of ten.** A deliberate constraint, consistent with the recipient's guideline, enforcing the prioritisation of content.
-- **Pareto charts** for the concentration of customers and categories- the most legible form of presenting the risk arising from the "80/20" principle.
+- **Pareto charts** for the concentration of customers and categories - the most legible form of presenting the risk arising from the "80/20" principle.
 - **A turnover × margin bubble chart**- a single visualisation depicting the distribution of turnover, margin, and their co-occurrence (HANDYPACK).
-- **The deliberate omission of year-over-year analysis**, documented explicitly in the report footer- methodological integrity was given precedence over a striking yet misleading indicator.
+- **The deliberate omission of year-over-year analysis**, documented explicitly in the report footer - methodological integrity was given precedence over a striking yet misleading indicator.
 
 ---
 
