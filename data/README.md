@@ -10,7 +10,7 @@ Trzy zbiory zasilające model gwiazdy (star schema) w Power BI:
 
 | Zbiór | Tabela w modelu | Rola | Wiersze |
 |---|---|---|---|
-| `Sprzedaz` ([csv](sprzedaz.csv)) | `FactSprzedaz` | tabela faktów | 2 412 |
+| `sprzedaz` ([csv](sprzedaz.csv)) | `FactSprzedaz` | tabela faktów | 2 412 |
 | `klienci` ([csv](klienci.csv)) | `DimKlienci` | wymiar | 8 |
 | `produkty` ([csv](produkty.csv)) | `DimProdukty` | wymiar | 158 |
 
@@ -33,7 +33,7 @@ Three datasets feeding the Power BI star schema:
 
 | Dataset | Model table | Role | Rows |
 |---|---|---|---|
-| `Sprzedaz` ([csv](sprzedaz.csv)) | `FactSprzedaz` | fact table | 2,412 |
+| `sprzedaz` ([csv](sprzedaz.csv)) | `FactSprzedaz` | fact table | 2,412 |
 | `klienci` ([csv](klienci.csv)) | `DimKlienci` | dimension | 8 |
 | `produkty` ([csv](produkty.csv)) | `DimProdukty` | dimension | 158 |
 
