@@ -77,7 +77,7 @@ Trzy pliki tworzące model gwiazdy (*star schema*), udostępnione w formatach CS
 
 **Filary wzrostu:** Leki/Wyroby Medyczne · Zdrowa Żywność · Pozostałe · Kosmetyki
 
-**Okres:** styczeń 2025 – maj 2026 (17 miesięcy, dane w 12) · wartości netto, bez korekt.
+**Okres:** styczeń 2025 - maj 2026 (17 miesięcy, dane w 12) · wartości netto, bez korekt.
 
 ---
 
@@ -192,7 +192,7 @@ Three files forming a star schema, provided in CSV (previewable on GitHub) and X
 
 **Growth pillars:** Medicines/Medical · Healthy Food · Other · Cosmetics
 
-**Period:** January 2025 – May 2026 (17 months, data in 12) · net values, corrections excluded.
+**Period:** January 2025 - May 2026 (17 months, data in 12) · net values, corrections excluded.
 
 ---
 
