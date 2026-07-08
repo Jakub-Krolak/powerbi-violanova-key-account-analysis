@@ -1,4 +1,4 @@
-# VIOLA NOVA- Analiza sprzedaży i rentowności klientów kluczowych
+# VIOLA NOVA - Analiza sprzedaży i rentowności klientów kluczowych
 
 > Power BI · Power Query · DAX · Modelowanie danych · Narracja oparta na danych
 
@@ -114,7 +114,7 @@ Zwięźle:
 <a name="-english"></a>
 # English
 
-# VIOLA NOVA- Key Account Sales and Profitability Analysis
+# VIOLA NOVA - Key Account Sales and Profitability Analysis
 
 > Power BI · Power Query · DAX · Data modelling · Data-driven narrative
 
