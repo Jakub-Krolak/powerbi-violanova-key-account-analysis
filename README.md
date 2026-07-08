@@ -191,6 +191,7 @@ Three files forming a star schema, provided in CSV (previewable on GitHub) and X
 | `produkty` ([csv](data/produkty.csv) · [xlsx](data/produkty.xlsx)) | **Dimension** | 158 product categories assigned to growth pillars |
 
 **Growth pillars:** Medicines/Medical · Healthy Food · Other · Cosmetics
+
 **Period:** January 2025 – May 2026 (17 months, data in 12) · net values, corrections excluded.
 
 ---
