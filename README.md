@@ -83,7 +83,7 @@ Trzy pliki tworzące model gwiazdy (*star schema*), udostępnione w formatach CS
 
 ## 5. Sposób opracowania raportu
 
-Pełna dokumentacja metodologiczna - architektura modelu, tabela czasu, zbiór miar **DAX**, kolumny obliczane, organizacja modelu oraz założenia projektowe- zawarta została w odrębnym pliku:
+Pełna dokumentacja metodologiczna - architektura modelu, tabela czasu, zbiór miar **DAX**, kolumny obliczane, organizacja modelu oraz założenia projektowe - zawarta została w odrębnym pliku:
 
  **[METHODOLOGY.md](METHODOLOGY.md)**
 
@@ -198,7 +198,7 @@ Three files forming a star schema, provided in CSV (previewable on GitHub):
 
 ## 5. Manner of the report's preparation
 
-The full methodological documentation - model architecture, the time table, the set of **DAX** measures, calculated columns, model organisation, and design assumptions- has been contained in a separate file:
+The full methodological documentation - model architecture, the time table, the set of **DAX** measures, calculated columns, model organisation, and design assumptions - has been contained in a separate file:
 
  **[METHODOLOGY.md](METHODOLOGY.md)**
 
