@@ -76,21 +76,22 @@ Trzy pliki tworzące model gwiazdy (*star schema*), udostępnione w formatach CS
 | `produkty` ([csv](data/produkty.csv) · [xlsx](data/produkty.xlsx)) | **Wymiar** | 158 kategorii produktowych przypisanych do filarów wzrostu |
 
 **Filary wzrostu:** Leki/Wyroby Medyczne · Zdrowa Żywność · Pozostałe · Kosmetyki
+
 **Okres:** styczeń 2025 – maj 2026 (17 miesięcy, dane w 12) · wartości netto, bez korekt.
 
 ---
 
 ## 5. Sposób opracowania raportu
 
-Pełna dokumentacja metodologiczna- architektura modelu, tabela czasu, zbiór miar **DAX**, kolumny obliczane, organizacja modelu oraz założenia projektowe- zawarta została w odrębnym pliku:
+Pełna dokumentacja metodologiczna - architektura modelu, tabela czasu, zbiór miar **DAX**, kolumny obliczane, organizacja modelu oraz założenia projektowe- zawarta została w odrębnym pliku:
 
  **[METHODOLOGY.md](METHODOLOGY.md)**
 
 Zwięźle:
-1. **Model gwiazdy**- `FactSprzedaz` (fakty) oraz `DimDate`, `DimKlienci`, `DimProdukty` (wymiary) i `_Measures` (kontener miar). Relacje 1:*, jednokierunkowe.
-2. **Tabela czasu w DAX**- kalendarz rozpoczynający się zawsze 1 stycznia roku pierwszej sprzedaży (bez stałych umownych), wyposażony w liczbowy klucz sortujący miesiące.
-3. **Warstwy miar**- bazowe „bez korekt" (oczyszczone) udziały (kanał / produkty) liczności i czas karty KPI interpolacja luk.
-4. **Warstwa wizualna**- dwie strony, każdy kafelek opatrzony tezą w nagłówku (narracja oparta na danych).
+1. **Model gwiazdy** - `FactSprzedaz` (fakty) oraz `DimDate`, `DimKlienci`, `DimProdukty` (wymiary) i `_Measures` (kontener miar). Relacje 1:*, jednokierunkowe.
+2. **Tabela czasu w DAX** - kalendarz rozpoczynający się zawsze 1 stycznia roku pierwszej sprzedaży (bez stałych umownych), wyposażony w liczbowy klucz sortujący miesiące.
+3. **Warstwy miar** - bazowe „bez korekt" (oczyszczone) udziały (kanał / produkty) liczności i czas karty KPI interpolacja luk.
+4. **Warstwa wizualna** - dwie strony, każdy kafelek opatrzony tezą w nagłówku (narracja oparta na danych).
 
 ---
 
@@ -196,15 +197,15 @@ Three files forming a star schema, provided in CSV (previewable on GitHub) and X
 
 ## 5. Manner of the report's preparation
 
-The full methodological documentation- model architecture, the time table, the set of **DAX** measures, calculated columns, model organisation, and design assumptions- has been contained in a separate file:
+The full methodological documentation - model architecture, the time table, the set of **DAX** measures, calculated columns, model organisation, and design assumptions- has been contained in a separate file:
 
  **[METHODOLOGY.md](METHODOLOGY.md)**
 
 In brief:
-1. **Star schema**- `FactSprzedaz` (facts) together with `DimDate`, `DimKlienci`, `DimProdukty` (dimensions) and `_Measures` (a measure container). Relationships 1:*, single-direction.
-2. **A time table in DAX**- a calendar commencing always on 1 January of the first sales year (without conventional constants), furnished with a numeric key for sorting months.
-3. **Measure layers**- base "bez korekt" (cleaned) shares (channel / products) counts and time KPI cards gap interpolation.
-4. **Visual layer**- two pages, each tile provided with a thesis in its header (data-driven narrative).
+1. **Star schema** - `FactSprzedaz` (facts) together with `DimDate`, `DimKlienci`, `DimProdukty` (dimensions) and `_Measures` (a measure container). Relationships 1:*, single-direction.
+2. **A time table in DAX** - a calendar commencing always on 1 January of the first sales year (without conventional constants), furnished with a numeric key for sorting months.
+3. **Measure layers** - base "bez korekt" (cleaned) shares (channel / products) counts and time KPI cards gap interpolation.
+4. **Visual layer** - two pages, each tile provided with a thesis in its header (data-driven narrative).
 
 ---
 
