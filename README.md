@@ -34,11 +34,11 @@ Dwustronicowy raport menedżerski (Power BI) opracowany na surowych danych trans
 
 Przedmiotem zadania było przygotowanie syntetycznego obrazu sprzedaży za rok 2025 i początek roku 2026 w segmencie klientów kluczowych, na potrzeby posiedzenia zarządu. Zakres analizy określono następująco:
 
-- **Sprzedaż w czasie**- trend, sezonowość oraz istotne wahania (spadki i wzrosty) stanowiące o dynamice działalności.
-- **Klienci**- identyfikacja podmiotów generujących największy obrót oraz największą marżę.
-- **Kategorie produktowe**- rozróżnienie kategorii o najwyższej efektywności od kategorii obniżających wynik.
-- **Interpretacja, nie wyłącznie wartości**- samodzielne wnioski analityczne.
-- **Ograniczenie do dwóch stron**- wymóg podyktowany ograniczeniami czasowymi odbiorcy.
+- **Sprzedaż w czasie** - trend, sezonowość oraz istotne wahania (spadki i wzrosty) stanowiące o dynamice działalności.
+- **Klienci** - identyfikacja podmiotów generujących największy obrót oraz największą marżę.
+- **Kategorie produktowe** - rozróżnienie kategorii o najwyższej efektywności od kategorii obniżających wynik.
+- **Interpretacja, nie wyłącznie wartości** - samodzielne wnioski analityczne.
+- **Ograniczenie do dwóch stron** - wymóg podyktowany ograniczeniami czasowymi odbiorcy.
 
 ---
 
@@ -148,11 +148,11 @@ A two-page management report (Power BI) developed on raw transactional data. The
 
 The object of the task was the preparation of a synthetic picture of sales for the year 2025 and the beginning of 2026 in the key-account segment, for the purposes of a board meeting. The scope of the analysis was defined as follows:
 
-- **Sales over time**- trend, seasonality, and material fluctuations (declines and increases) determining the dynamics of the business.
-- **Customers**- identification of the entities generating the greatest turnover and the greatest margin.
-- **Product categories**- the differentiation of categories of the highest effectiveness from categories depressing the result.
-- **Interpretation, not values alone**- independent analytical conclusions.
-- **Confinement to two pages**- a requirement dictated by the time constraints of the recipient.
+- **Sales over time** - trend, seasonality, and material fluctuations (declines and increases) determining the dynamics of the business.
+- **Customers** - identification of the entities generating the greatest turnover and the greatest margin.
+- **Product categories** - the differentiation of categories of the highest effectiveness from categories depressing the result.
+- **Interpretation, not values alone** - independent analytical conclusions.
+- **Confinement to two pages** - a requirement dictated by the time constraints of the recipient.
 
 ---
 
