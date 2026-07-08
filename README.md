@@ -71,9 +71,9 @@ Trzy pliki tworzące model gwiazdy (*star schema*), udostępnione w formatach CS
 
 | Zbiór | Rola | Opis |
 |---|---|---|
-| `Sprzedaz` ([csv](data/Sprzedaz.csv) · [xlsx](data/Sprzedaz.xlsx)) | **Tabela faktów** | 2 412 wierszy transakcji: data, klient, kategoria, ilość, sprzedaż, marża |
-| `klienci` ([csv](data/klienci.csv) · [xlsx](data/klienci.xlsx)) | **Wymiar** | 8 grup klientów: nazwa, kanał (SIECI/TRADYCJA), opiekun KAM |
-| `produkty` ([csv](data/produkty.csv) · [xlsx](data/produkty.xlsx)) | **Wymiar** | 158 kategorii produktowych przypisanych do filarów wzrostu |
+| `sprzedaz` ([csv](data/sprzedaz.csv)) | **Tabela faktów** | 2 412 wierszy transakcji: data, klient, kategoria, ilość, sprzedaż, marża |
+| `klienci` ([csv](data/klienci.csv)) | **Wymiar** | 8 grup klientów: nazwa, kanał (SIECI/TRADYCJA), opiekun KAM |
+| `produkty` ([csv](data/produkty.csv)) | **Wymiar** | 158 kategorii produktowych przypisanych do filarów wzrostu |
 
 **Filary wzrostu:** Leki/Wyroby Medyczne · Zdrowa Żywność · Pozostałe · Kosmetyki
 
@@ -186,9 +186,9 @@ Three files forming a star schema, provided in CSV (previewable on GitHub) and X
 
 | Dataset | Role | Description |
 |---|---|---|
-| `Sprzedaz` ([csv](data/Sprzedaz.csv) · [xlsx](data/Sprzedaz.xlsx)) | **Fact table** | 2,412 transaction rows: date, customer, category, quantity, sales, margin |
-| `klienci` ([csv](data/klienci.csv) · [xlsx](data/klienci.xlsx)) | **Dimension** | 8 customer groups: name, channel (SIECI/TRADYCJA), KAM owner |
-| `produkty` ([csv](data/produkty.csv) · [xlsx](data/produkty.xlsx)) | **Dimension** | 158 product categories assigned to growth pillars |
+| `sprzedaz` ([csv](data/sprzedaz.csv)) | **Fact table** | 2,412 transaction rows: date, customer, category, quantity, sales, margin |
+| `klienci` ([csv](data/klienci.csv)) | **Dimension** | 8 customer groups: name, channel (SIECI/TRADYCJA), KAM owner |
+| `produkty` ([csv](data/produkty.csv)) | **Dimension** | 158 product categories assigned to growth pillars |
 
 **Growth pillars:** Medicines/Medical · Healthy Food · Other · Cosmetics
 
